@@ -282,6 +282,74 @@
       </div>
     </section>
     <br><br><br>
+    <!--restaurante-->
+    <br><br><br>
+      <h2 class="text-spacing-25 font-weight-normal title-opacity-9"><b>Restaurantes</b></h2>
+    <br><br>
+    
+    <section>
+      <br><br>
+      <h3 class="text-spacing-25 font-weight-normal title-opacity-9" ><b>Resto Bar El Matapalo</b></h3>
+      <br>
+      <div class="container">
+        <div class="row row-50 justify-content-center align-items-xl-center">
+          <div class="col-md-10 col-lg-5 col-xl-6">
+            <div>
+              <ul>
+                <li>
+                  <a href="../PaginaComentarios.php?img=lasnunez/imagenes/las_nunez/0419_arrozmarinero.jpg">
+                    <img src="imagenes/las_nunez/restaurante1.jpg" alt="" style="width: 500px; height: 300px;"/>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-10 col-lg-7 col-xl-6">
+            <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
+              <div class="tab-content">
+                <div class="tab-pane fade show active" id="tabs-4-1">
+                <p style="text-align: justify; font-size: 17px;"><b>Nivel de precio:</b> 3 dólares estadounidenses - 15 dólares estadounidenses <br><b>Cocinas:</b> Bar, Café, Europea, Asiática, Pub, Sudamericana, Ecuatoriana <br> <b>Comidas:</b> Desayuno almuerzo cena<br><b>Ubicación:</b> Comuna Las Nuñes, Parroquia Manglaralto. Paradero Turístico Sector De La Playa Frente A La Escuela, Las Núñez Ecuador</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br><br><br>
+    <section>
+      <br><br>
+      <h3 class="text-spacing-25 font-weight-normal title-opacity-9" ><b>Comedor de Cristian</b></h3>
+      <br>
+      <div class="container">
+        <div class="row row-50 justify-content-center align-items-xl-center">
+          <div class="col-md-10 col-lg-5 col-xl-6">
+            <div>
+              <ul>
+                <li>
+                  <a href="../PaginaComentarios.php?img=lasnunez/imagenes/las_nunez/0419_arrozmarinero.jpg">
+                    <img src="imagenes/las_nunez/restaurante2.jpg" alt="" style="width: 500px; height: 300px;"/>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-10 col-lg-7 col-xl-6">
+            <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
+              <div class="tab-content">
+                <div class="tab-pane fade show active" id="tabs-4-1">
+                <p style="text-align: justify; font-size: 17px;"><b>Direccion:</b> San Francisco De Las NùÑez Vía principal <br> <b>Horarios:</b> 10:00-21:00 <br> <b>Comidas:</b> Almuerzo y cena  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br><br><br>
+
+
+
   </div>
   <!-- Page Footer-->
   <?php include("footer.php") ?>

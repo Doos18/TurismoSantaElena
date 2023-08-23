@@ -63,7 +63,98 @@
               <div class="col-sm-6 col-md-12 wow fadeInLeft">
             </div>
           </div>
-      </section>     
+      </section>
+
+
+      <!--Restaurantes-->
+      
+      <!--img separadora-->
+      <section>
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="imagenes/olon/restaurante_separador.jpg" alt="First slide" height="50%">
+            </div>
+          </div>
+        </div>
+      </section>
+
+                    <!--RESTAURANTE 1-->
+      <section>
+      <br><br>
+      <h3 class="text-spacing-25 font-weight-normal title-opacity-9" ><b>MOMO Restaurante y Deli</b></h3>
+      <br>
+      <div class="container">
+        <div class="row row-50 justify-content-center align-items-xl-center">
+          <div class="col-md-10 col-lg-5 col-xl-6">
+            <div>
+              <ul>
+                <li>
+                  <a href="../PaginaValoraciones.php?img=olon/imagenes/olon/0223_qh_gastronomia_1.jpeg">
+                    <img src="imagenes/olon/restaurante2.jpg" alt="" style="width: 500px; height: 300px;"/>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-10 col-lg-7 col-xl-6">
+            <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
+              <div class="tab-content">
+                <div class="tab-pane fade show active" id="tabs-4-1">
+                <p style="text-align: justify; font-size: 17px;">
+                <b>Rango de precios:</b> 3 US$ - 23 US$ <br>
+                <b>Tipos de cocinas:</b> Contemporánea, Marisco<br>
+                <b>Dietas especiales:</b> Opciones vegetarianas <br>
+                <b>Ubicacion:</b> Av. Santa Lucia 303, Olon Ecuador
+                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br><br>
+                  <!-- RESTAURANTE 2 -->
+    <section>
+      <br><br>
+      <h3 class="text-spacing-25 font-weight-normal title-opacity-9" ><b>Spondylus Restaurant</b></h3>
+      <br>
+      <div class="container">
+        <div class="row row-50 justify-content-center align-items-xl-center">
+          <div class="col-md-10 col-lg-5 col-xl-6">
+            <div>
+              <ul>
+                <li>
+                  <a href="../PaginaValoraciones.php?img=olon/imagenes/olon/0223_qh_gastronomia_1.jpeg">
+                    <img src="imagenes/olon/restaurante1.jpg" alt="" style="width: 500px; height: 300px;"/>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-10 col-lg-7 col-xl-6">
+            <div class="tabs-custom tabs-horizontal tabs-line" id="tabs-4">
+              <div class="tab-content">
+                <div class="tab-pane fade show active" id="tabs-4-1">
+                <p style="text-align: justify; font-size: 17px;">
+                <b>Rangos de precios:</b> 4 US$ - 15 US$<br>
+                <b>Tipo de cocinas:</b> Ecuatoriana, Española, Fruterías<br>
+                <b>Dietas especiales:</b> Opciones vegetarianas, Opciones veganas, Opciones sin gluten
+                <b>Ubicación:</b> Calle Santa Lucía Alberto Potes, Olon 131401 Ecuador
+                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br><br>
+
+
+
+
       <!-- Page Footer-->
       <br><br>
       <?php
